@@ -1,2 +1,5 @@
 # Duckiebot_odometry
-Code sample that uses input from 2 encoders and creates map of robot movement
+
+1. Get input from duckiebot.
+2. Add path to file in string `with open('your path') as f:`
+3. Enjoy your result :D
