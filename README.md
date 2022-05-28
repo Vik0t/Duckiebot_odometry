@@ -1,7 +1,7 @@
 # Duckiebot_odometry
 
 1. Get input from duckiebot.
-2. Add path to file in string `with open('your path') as f:`
+2. Add path to file in string `self.file = "Test.txt":`
 3. Enjoy your result :D
 
 this is the sample output of the program
