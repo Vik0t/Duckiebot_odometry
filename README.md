@@ -1,6 +1,6 @@
 # Duckiebot_odometry
 
-1. Get input from duckiebot.
+1. Get input from a duckiebot.
 2. Add path to file in string `self.file = "Test.txt":`
 3. Enjoy your result :D
 
